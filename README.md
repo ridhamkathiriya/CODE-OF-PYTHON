@@ -37,5 +37,3 @@ print("Max:", max(my_list))
 print("Min:", min(my_list))
 print("Sum:", sum(my_list))
 
-# 9. Slicing
-print("Slice (1 t
